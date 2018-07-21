@@ -16,7 +16,7 @@ cd yourDirectory/gs-maven/initial/target
 ./mvnw spring-boot:run
 ```
 
-## Build With
+## Built With
 
 *  [Maven](https://maven.apache.org/) - Dependency Management
 *  [Spring Framework](https://spring.io/) - Framework
